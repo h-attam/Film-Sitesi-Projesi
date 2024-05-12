@@ -15,12 +15,6 @@ Aşağıdaki özelliklerde geliştirilebilir.
 -CSS
 -Java Script
 
-# Ekran Görüntüleri
-![](img/ekranalıntısı1.PNG)
-![](img/Ekran%20Alıntısı2.PNG)
-![](img/Ekran%20Alıntısı3.PNG)
-![](img/Ekran%20Alıntısı4.PNG)
-
 # GIF
 ![](img/filmsitesigif.gif)
 
